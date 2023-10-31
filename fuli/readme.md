@@ -6,7 +6,7 @@ V2rayN 图文教程
 获取软件
 打开页面 https://github.com/2dust/v2rayN/releases 下载最新版软件 如图
 或者直接点击 https://github.com/2dust/v2rayN/releases/download/3.5/v2rayN-Core.zip 下载 3.5版本
-解压缩 后，运行 v2rayN.exe 文件
+解压缩 后，运行 v2rayN.exe 文件<br>
 <img src="V2rayN/00112.png" alt="img" loading="lazy"></li>
 <li>由于v2rayN没有任何签名， 会弹出是否运行此文件，点击 更多信息<br>
 <img src="V2rayN/00111.png" alt="img" loading="lazy"></li>
@@ -54,5 +54,4 @@ V2rayN 图文教程
 </li>
 <li>
 <p>v2rayN简单易上手，适合新手使用，但是不能自动更换节点。节点受到长城墙干扰时，需要手动更换节点，这点比较麻烦。</p>
-<p>需要自动更换节点、或强大分流规则的用户，推荐使用clash。clash详细教程：<a href="https://www.v2rayfree.eu.org/post/clash-for-windows-tutorial/">https://www.v2rayfree.eu.org/post/clash-for-windows-tutorial/</a></p>
 </li>
